@@ -1,6 +1,6 @@
 # Python-beginner-projects
 A collection of the generic beginner Python projects
-1. Madlibs 
+1. Madlibs ✓
 2. Guess the Number (computer) 
 3. Guess the Number (user)
 4. Rock Paper Scissors
@@ -9,6 +9,6 @@ A collection of the generic beginner Python projects
 7. Tic-Tac-Toe AI
 8. Binary Search 
 9. Minesweeper 
-10. Sudoku Solver
+10. Sudoku Solver ✓
 11. Photo Manipulation in Python 
 12. Markov Chain Text Composer 
