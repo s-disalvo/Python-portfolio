@@ -1,14 +1,17 @@
-# Python-beginner-projects
-A collection of the generic beginner Python projects
-1. Madlibs ✓
-2. Guess the Number (computer) 
-3. Guess the Number (user)
-4. Rock Paper Scissors
-5. Hangman
-6. Tic-Tac-Toe
-7. Tic-Tac-Toe AI
-8. Binary Search 
-9. Minesweeper 
-10. Sudoku Solver ✓
-11. Photo Manipulation in Python 
-12. Markov Chain Text Composer 
+# Python-portfolio
+A collection of the Python projects I've been working on.
+1. Madlibs
+2. Sudoku Solver
+3. Pong
+
+To-Dos:
+1. Guess the Number (computer) 
+2. Guess the Number (user)
+3. Rock Paper Scissors
+4. Hangman
+5. Tic-Tac-Toe
+6. Tic-Tac-Toe AI
+7. Binary Search 
+8. Minesweeper 
+9. Photo Manipulation in Python 
+10. Markov Chain Text Composer 
