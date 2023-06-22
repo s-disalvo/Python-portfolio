@@ -1,7 +1,3 @@
-# Simple Ping in Python 3 for Beginners
-# By @TokyoEdTech
-# Part 1: Getting Started
-
 import turtle
 import os
 
@@ -18,7 +14,7 @@ score_a = 0
 score_b = 0
 
 
-# Part 2: Adding paddles and ball
+# Adding paddles and ball
 # Paddle A
 paddle_a = turtle.Turtle()
 paddle_a.speed(0) 
@@ -135,3 +131,11 @@ while True:
             ball.setx(-340)
             ball.dx *= -1
             os.system("afplay pong_bounce.wav&")
+
+    # AI Player
+    # is paddle a's y cord greater than the ball? Follow the ball
+    if paddle_a.ycor() < ball.ycor() and abs(paddle_a.ycor() - ball.ycor()) > 10:
+        paddle_a_up()
+
+    elif paddle_a.ycor() > ball.ycor() and abs(paddle_a.ycor() - ball.ycor()) > 10:
+        paddle_a_down()
