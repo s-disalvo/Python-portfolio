@@ -1,10 +1,10 @@
-## Python-portfolio
+# Python-portfolio
 A collection of the Python projects I've been working on.
 
-# Data Analysis
+## Data Analysis
 Historical Stock Revenue Data project from IBM Data Analyst course on Coursera.
 
-# Python Games:
+## Python Games:
 1. Madlibs
 2. Sudoku Solver
 3. Pong
