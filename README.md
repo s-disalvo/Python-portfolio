@@ -1,5 +1,9 @@
 # Python-portfolio
 A collection of the Python projects I've been working on.
+
+# Data Analysis
+
+# Python Games:
 1. Madlibs
 2. Sudoku Solver
 3. Pong
