@@ -5,6 +5,7 @@ A collection of the Python projects I've been working on.
 - Historical Stock Revenue Data project from IBM Data Analyst course on Coursera.
 - Analysis of House Sales
 - Analysis of Australian Wildfire Activities
+- Interactive Dashboard of Australian Wildfire Activities: Dash_wildfire.py
 
 ## Python Games:
 1. Madlibs
