@@ -2,6 +2,7 @@
 A collection of the Python projects I've been working on.
 
 ## Data Analysis
+- Hockey Rink Analysis. Based on rankings of visited hockey rinks by @rinkranker on Instagram.
 - Historical Stock Revenue Data project from IBM Data Analyst course on Coursera.
 - Analysis of House Sales
 - Analysis of Australian Wildfire Activities
